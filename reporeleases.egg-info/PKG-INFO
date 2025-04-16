@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: reporeleases
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/Juanprm03/reporeleases#
+Author: Juan Ruiz
+Author-email: juanpabloruizmarin@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
